@@ -23,7 +23,6 @@ This project uses CRSP monthly stock data from WRDS, including data cleaning, ex
 2. Data cleaning
 3. Data analysis
 4. Visualization
-5. Summary and reflection
 
 ## AI Use Statement
 AI tools were used to assist with code generation, debugging, and result explanation. All outputs were checked, adjusted, and verified by myself.
